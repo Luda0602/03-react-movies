@@ -21,4 +21,3 @@ export const fetchMovies = async (
   );
   return response.data;
 }
-console.log("TOKEN:", API_KEY);
